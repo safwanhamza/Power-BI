@@ -1,3 +1,4 @@
+# Power BI Workplace
 The repository contains my work and projects of Data Analysis, Dashboarding, reporting and Development using Power BI.
 
 ## 1. Sales Analysis
