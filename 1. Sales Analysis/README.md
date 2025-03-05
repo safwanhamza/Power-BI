@@ -11,7 +11,7 @@ The data for this project is sourced from the retail store's transaction databas
 
 2. **Franchise Sales Recognition**: Identify franchises with lower sales performance to initiate targeted marketing campaigns aimed at boosting sales in those locations. This involves analyzing sales trends, comparing performance across franchises, and identifying potential factors contributing to lower sales.
 
-## Project Components
+## Project Steps
 1. **Data Cleaning and Preparation**: 
    - Clean and preprocess the raw data to ensure consistency and accuracy.
    - Perform data transformations and aggregation to prepare the data for analysis.
