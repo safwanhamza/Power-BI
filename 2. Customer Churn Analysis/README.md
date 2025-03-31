@@ -13,7 +13,6 @@
 
 ## **Beyond the Dashboard: Communication for Impact**
 Besides making great dashboards, I also help clients understand the data and make smart decisions with it.
-I have:
 - Shared important findings: Summarized data nicely focusing on what matters.
 - Tailored messages: Adjusted my language to match the client's knowledge level.
 - Suggested actions: Gave specific advice on what to do next.
