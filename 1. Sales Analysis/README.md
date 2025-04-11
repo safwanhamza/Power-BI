@@ -1,7 +1,7 @@
 # Retail Store Sales Analysis
 
 ## Overview
-This PowerBI project focuses on analyzing a retail store with a chain of franchises across various cities in the country. The primary objectives of this analysis are to enhance the available payment options for customers to ensure a smooth purchasing experience and to identify franchises with lower sales for targeted marketing campaigns.
+This PowerBI project focuses on analyzing a retail store with a chain of franchises across various cities in the country. The primary objectives of this analysis is to enhance the available payment options for customers to ensure a smooth purchasing experience and to identify franchises with lower sales for targeted marketing campaigns.
 
 ## Data Sources
 The data for this project is sourced from the retail store's transaction database, which includes information such as sales transactions, payment methods, franchise locations, product details, and customer demographics.
